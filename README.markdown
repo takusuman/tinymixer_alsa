@@ -1,6 +1,6 @@
 # `tinymixer`_alsa
 A GUI wrapper originally for OpenBSD's sndioctl, ported to work with ALSA.  
-Written in Tcl/Tk with *32 lines of code (counting comments and line breaks).
+Written in Tcl/Tk with *32 lines of code (counting comments and line breaks).  
 *: Originally it had just 30, but i've added some comments.
 
 Here is a screenshot of it:  
